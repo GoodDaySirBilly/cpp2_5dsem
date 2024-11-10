@@ -1,0 +1,11 @@
+# ninja log v5
+2	216	7529349558704641	build.ninja	6b460460af8e879a
+8	691	7528996789044840	CMakeFiles/task1.dir/src/SIGN.cpp.obj	11b1ad5244bcd942
+5	735	7528982079960196	CMakeFiles/cpp2_5dsem.dir/src/SIGN.cpp.obj	8d943b410e59876a
+20	107	7528996783265704	CMakeFiles/task2.dir/task2.cpp.obj	6672ec859022e223
+3	511	7528982535292831	CMakeFiles/cpp2_5dsem.dir/src/main.cpp.obj	ad2248e3243e4cb2
+0	695	7528996789095015	CMakeFiles/task1.dir/src/main.cpp.obj	6f3cb1f8075981c
+529	694	7528993227868954	cpp2_5dsem.exe	7d58ebb29dfb05d0
+4	528	7528993226253611	CMakeFiles/cpp2_5dsem.dir/src/Container.cpp.obj	f189de863e6954d2
+14	717	7528996789355838	CMakeFiles/task1.dir/src/Container.cpp.obj	e8fe2d1cb4e5b97f
+14	163	7528997228813597	task1.exe	a73f60344e1c152c
